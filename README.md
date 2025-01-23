@@ -8,7 +8,7 @@ This is a React-based Homework Management App that allows users to log in using 
 - **Add Homework**: Easily add new homework tasks to your list.
 - **Remove Homework**: Remove tasks from your pending list when necessary.
 - **Mark as Completed**: Move tasks to the completed section once they're done.
-- **Responsive UI**: Works seamlessly across different devices.
+<!-- - **Responsive UI**: Works seamlessly across different devices. -->
 
 ## Getting Started
 
